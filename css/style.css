@@ -1,0 +1,26 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: hsl(270, 20%, 96%);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.message {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20%;
+    margin-right: 30%;
+
+}
+
+.background-color{
+    background-color: hsl(276, 100%, 81%)
+    
+    
+    
+}
